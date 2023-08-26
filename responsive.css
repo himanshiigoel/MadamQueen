@@ -1,0 +1,67 @@
+@media(max-width:1140px){
+    .nav-list{
+        flex-direction: column;
+        width:auto;
+    }
+    .navbar{
+        flex-direction: column;
+        width: auto;
+    }
+    .logo img{
+        width:20%; 
+    }
+    #search{
+        width:auto;
+        display: flex;
+        justify-content: center;
+    }
+    .rightNav{
+        text-align: center;
+        width:auto;
+    }
+    .background{
+        background-size: auto;
+    }
+    .btn-sm{
+        display: flex;
+        justify-content: center;
+    }
+    .burger{
+        display: block;
+    }
+    .h-nav{
+        height:72px;
+        background-color: black;
+    }
+    .v-class{
+        opacity: 0;
+    }
+    .box-main{
+        flex-direction: column-reverse;
+        max-width: 100%;
+        width: auto;
+    }
+    .firstSection{
+        height:auto;
+        width: auto;
+    }
+    
+    #text{
+        width:auto;
+    }
+    .text-big{
+        text-align: left;
+    }
+    .text-small{
+        text-align: left;
+    }
+    .buttons{
+        text-align: left;
+    }
+    .contact{
+        width: auto;
+    }
+    #text{
+        width: 85%;
+    }
+}
